@@ -83,26 +83,17 @@
 			<td colspan="2">6k-8k</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
-			<td rowspan="4">竞赛及项目经历</td>
-			
-			<td colspan="6">工作地点</td>
-			
+			<td rowspan="4">竞赛及项目经历</td>	
+			<td colspan="6">工作地点</td>	
+		</tr>
+		<tr height="50" style="text-align: center;">	
+			<td colspan="6">暂无</td>	
 		</tr>
 		<tr height="50" style="text-align: center;">
-			
-			<td colspan="6">暂无</td>
-			
-		</tr>
-		<tr height="50" style="text-align: center;">
-			
 			<td colspan="3"></td>
-			
 		</tr>
-		<tr height="50" style="text-align: center;">
-			
+		<tr height="50" style="text-align: center;">	
 		</tr>
-		
-		
 </table>
 	
 	
