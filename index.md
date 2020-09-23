@@ -84,16 +84,16 @@
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td rowspan="4">竞赛及项目经历</td>	
-			<td colspan="6">2019年 7 月参加大学生创新创业项目并顺利结题</td>	
+			<td colspan="6">2018年 9 月荣获社会工作单项奖学金</td>	
+		</tr>
+		<tr height="50" style="text-align: center;">	
+	<td colspan="6">2019年 7 月参加大学生创新创业项目并顺利结题</td>
 		</tr>
 		<tr height="50" style="text-align: center;">	
 			<td colspan="6">2019年 7 月荣获《随堂小考》微信小程序软件著作权</td>	
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td colspan="6">2019 年 12 月参加校级“东软杯”程序设计大赛并获得校级三等奖</td>
-		</tr>
-		<tr height="50" style="text-align: center;">	
-	<td colspan="6">2018年 9 月荣获社会工作单项奖学金</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td rowspan="4">社会实践工作经历</td>	
@@ -103,7 +103,7 @@
 			<td colspan="6">2019年7月担任院学生会主席</td>	
 		</tr>
 		<tr height="50" style="text-align: center;">
-			<td colspan="6">2019年参与信息学院迎新工作</td>
+			<td colspan="6">2019年9月参与信息学院迎新工作</td>
 		</tr>
 		<tr height="50" style="text-align: center;">	
 	<td colspan="6">2020年兼职淘宝网店客服</td>
