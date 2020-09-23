@@ -4,54 +4,54 @@
 		  width="800px">
 		<tr height="50"  style="text-align: center;">
 			<td rowspan="2" >姓名</td>
-            <td rowspan="2" width="100">  </td>
+            <td rowspan="2" width="100">李井明</td>
 			<td width="100">性别</td>
-			<td width="100">  </td>
+			<td width="100">男</td>
 			<td>文化程度</td>
-			<td width="100"></td>
+			<td width="100">本科</td>
 			<td  rowspan="3" width="120">照片</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td>身高</td>
-			<td></td>
+			<td>170cm</td>
 			<td>政治面貌</td>
-			<td></td>
+			<td>共青团员</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td width="100">籍贯</td>
-			<td colspan="2"></td>
+			<td colspan="2">吉林长春</td>
 			<td>出生年月</td>
-			<td colspan="2"></td>
+			<td colspan="2">1999.02</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td>户口所在地</td>
-			<td colspan="2"></td>
+			<td colspan="2">吉林长春</td>
 			<td>婚否</td>
-			<td width="100"></td>
+			<td width="100">未婚</td>
 			<td>民族</td>
-			<td></td>
+			<td>汉族</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
-			<td>身份证号码</td>
-			<td colspan="2"></td>
+			<td>电话号码</td>
+			<td colspan="2">15590538659</td>
 			<td>现居住地址</td>
-			<td colspan="3"></td>
+			<td colspan="3">河北石家庄</td>
 		</tr>			
 		<tr height="50" style="text-align: center;">
 			<td>毕业院校</td>
-			<td colspan="3"></td>
+			<td colspan="3">石家庄铁道大学</td>
 			<td>毕业时间</td>
-			<td colspan="2"></td>
+			<td colspan="2">2021.06</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td>学习专业</td>
-			<td colspan="3"></td>
+			<td colspan="3">软件工程</td>
 			<td>爱好特长</td>
-			<td colspan="2"></td>
+			<td colspan="2">羽毛球</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td rowspan="2">个人简介</td>
-			<td colspan="6" rowspan="2"></td>
+			<td colspan="6" rowspan="2">给我一个机会，还你一个惊喜</td>
 		<tr height="50" style="text-align: center;">			
 		</tr>
 		<tr height="50" style="text-align: center;">
