@@ -63,32 +63,24 @@
 			<td>担任职务</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
-			<td></td>
-			<td colspan="2"></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr height="50" style="text-align: center;">
-			<td></td>
-			<td colspan="2"></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>2017.09</td>
+			<td colspan="2">石家庄铁道大学</td>
+			<td>4年制</td>
+			<td>本科</td>
+			<td>软件工程</td>
+			<td>院学生会主席</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td>英语应用水平</td>
-			<td colspan="3"></td>
+			<td colspan="3">无</td>
 			<td>职业期望</td>
-			<td colspan="2"></td>
+			<td colspan="2">Java工程师，机器学习相关领域</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td>计算机应用水平</td>
-			<td colspan="3"></td>
+			<td colspan="3">计算机相关专业</td>
 			<td>生活要求</td>
-			<td colspan="2"></td>
+			<td colspan="2">暂无</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td rowspan="4">工作经历</td>
@@ -97,14 +89,9 @@
 			<td colspan="2">职务</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
-			<td ></td>
-			<td colspan="3"></td>
-			<td colspan="2"></td>
-		</tr>
-		<tr height="50" style="text-align: center;">
-			<td ></td>
-			<td colspan="3"></td>
-			<td colspan="2"></td>
+			<td >暂无</td>
+			<td colspan="3">暂无</td>
+			<td colspan="2">暂无</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td ></td>
@@ -113,7 +100,7 @@
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td>待遇要求</td>
-			<td colspan="6"></td>
+			<td colspan="6">6k-8k</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td rowspan="2">联系方式</td>
