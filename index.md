@@ -102,23 +102,8 @@
 			<td>待遇要求</td>
 			<td colspan="6">6k-8k</td>
 		</tr>
-		<tr height="50" style="text-align: center;">
-			<td rowspan="2">联系方式</td>
-			<td>移动电话</td>
-			<td></td>
-			<td>现在住址</td>
-			<td></td>
-			<td>邮编</td>
-			<td></td>
-		</tr>
-		<tr height="50" style="text-align: center;">
-			<td>紧急联系人</td>
-			<td></td>
-			<td>与本人关系</td>
-			<td></td>
-			<td>联系电话</td>
-			<td></td>
-		</tr>
+		
+		
 </table>
 	
 	
