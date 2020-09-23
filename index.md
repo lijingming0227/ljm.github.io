@@ -79,28 +79,27 @@
 		<tr height="50" style="text-align: center;">
 			<td>计算机应用水平</td>
 			<td colspan="3">计算机相关专业</td>
-			<td>生活要求</td>
-			<td colspan="2">暂无</td>
-		</tr>
-		<tr height="50" style="text-align: center;">
-			<td rowspan="4">工作经历</td>
-			<td>时间</td>
-			<td colspan="3">工作地点</td>
-			<td colspan="2">职务</td>
-		</tr>
-		<tr height="50" style="text-align: center;">
-			<td >暂无</td>
-			<td colspan="3">暂无</td>
-			<td colspan="2">暂无</td>
-		</tr>
-		<tr height="50" style="text-align: center;">
-			<td ></td>
-			<td colspan="3"></td>
-			<td colspan="2"></td>
-		</tr>
-		<tr height="50" style="text-align: center;">
 			<td>待遇要求</td>
-			<td colspan="6">6k-8k</td>
+			<td colspan="2">6k-8k</td>
+		</tr>
+		<tr height="50" style="text-align: center;">
+			<td rowspan="4">竞赛及项目经历</td>
+			
+			<td colspan="6">工作地点</td>
+			
+		</tr>
+		<tr height="50" style="text-align: center;">
+			
+			<td colspan="6">暂无</td>
+			
+		</tr>
+		<tr height="50" style="text-align: center;">
+			
+			<td colspan="3"></td>
+			
+		</tr>
+		<tr height="50" style="text-align: center;">
+			
 		</tr>
 		
 		
