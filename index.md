@@ -95,6 +95,19 @@
 		<tr height="50" style="text-align: center;">	
 	<td colspan="6">2018年 9 月荣获社会工作单项奖学金</td>
 		</tr>
+		<tr height="50" style="text-align: center;">
+			<td rowspan="4">社会实践工作经历</td>	
+			<td colspan="6">2018年参与为爱奔走六小时暨关爱贫困乡村儿童大型公益宣传劝募活动</td>	
+		</tr>
+		<tr height="50" style="text-align: center;">	
+			<td colspan="6">2019年7月担任院学生会主席</td>	
+		</tr>
+		<tr height="50" style="text-align: center;">
+			<td colspan="6">2019年参与信息学院迎新工作</td>
+		</tr>
+		<tr height="50" style="text-align: center;">	
+	<td colspan="6">2020年兼职淘宝网店客服</td>
+		</tr>
 </table>
 	
 	
